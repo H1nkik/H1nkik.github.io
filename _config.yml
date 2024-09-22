@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "H1nkik"
+title                    : "H1nkik's homepage"
 title_separator          : "-"
 name                     : &name "Yuchen Zhu"
 description              : &description "personal description"
@@ -48,14 +48,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "h1nkik"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
