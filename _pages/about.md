@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Master’s student from [School of Mathematics and Statistics](https://math.nwpu.edu.cn), [NWPU](https://www.nwpu.edu.cn/). My research interest includes unsupervised learning (especially clustering), representation learning and multi-view learning.
+I'm a second year Master’s student from [School of Mathematics and Statistics](https://math.nwpu.edu.cn), [NWPU](https://www.nwpu.edu.cn/). My research interest includes unsupervised learning (especially clustering), multi-view learning and uncertainty quantification.
 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was #advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
 ————————————————
